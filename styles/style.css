@@ -1,9 +1,14 @@
 /* Estilo para los encabezados */
 h1, h2, h3, h4, h5, h6 {
-    color: green;
+    color: yellow;
 }
 
 /* Estilo para los párrafos */
 p {
     color: blue;
+}
+
+/* Estilo para las tablas */
+table {
+    background-color: lightblue;
 }
